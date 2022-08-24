@@ -1,11 +1,12 @@
 site_name: My Guide
 site_url: https://galeiro.github.io
 nav:
-    - Hello: index.md
+    - Welcome: index.md
+    - MKDocs + Github: mkdocs.md
 
 theme:
   name: material
   palette:
-    scheme: amber
-    primary: amber
-    accent: orange
+    scheme: green
+    primary: green
+    accent: black
