@@ -1,0 +1,11 @@
+site_name: My Guide
+site_url: https://galeiro.github.io
+nav:
+    - Hello: index.md
+
+theme:
+  name: material
+  palette:
+    scheme: amber
+    primary: amber
+    accent: orange
