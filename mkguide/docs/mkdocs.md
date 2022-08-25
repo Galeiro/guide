@@ -8,4 +8,4 @@
 >*Setting > Developer > Generate Token*
 
 4. Lalu mulai clone Repository nya.
-`git clone https://github.com/Galeiro/guide/`
+`git clone https://github.com/galeiro/guide/`
